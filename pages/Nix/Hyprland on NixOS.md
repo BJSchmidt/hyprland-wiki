@@ -52,7 +52,7 @@ like this:
         ./configuration.nix
       ];
     };
-  } 
+  };
 }
 
 # configuration.nix
